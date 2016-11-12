@@ -1,0 +1,4 @@
+{
+    "header": "Horario",
+    "content": "<article id='horario' class='bebas'><table class='transition'><tr><td class='dia'>Lunes<br>Martes<br>Miércoles<br>Jueves<br>Viernes</td><td class='hora'>9:00 - 13:30<br>17:00 - 20:00</td></tr><tr><td class='dia'>Sábados</td><td class='hora horapeq'>9:30 - 13:00</td></tr></table><h2 class='transition'>Cerrado domingos y días festivos</h2></article>"
+}
